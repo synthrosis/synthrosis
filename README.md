@@ -4,7 +4,7 @@ Built on a professional lifetime of pattern recognition research.
 Made possible by the advancements of AI.
 
 Official initial documentation release: March 3rd, 2025
-## Abstact
+## Abstract
 
 We propose Synthrosis, a unified theoretical framework connecting Einstein's principles of relativity to the dynamics of conscious experience and transformation.
 In this model, human connection and information exchange form a measurable field analogous to gravity, warping a conceptual "mindspace" in much the same way mass curves spacetime. Just as mass and energy shape spacetime curvature in general relativity[^1], concentrations of information and bias warp the fabric of collective consciousness.
